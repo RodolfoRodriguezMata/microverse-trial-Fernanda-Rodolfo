@@ -1,3 +1,6 @@
 #title{
 	display: block;
 }
+#image{
+	max-width: 80%;
+}
