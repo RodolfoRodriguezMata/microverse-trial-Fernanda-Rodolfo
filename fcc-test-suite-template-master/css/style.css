@@ -2,5 +2,12 @@
 	display: block;
 }
 #image{
+	width: 250px;
+	height: 400px;
 	max-width: 80%;
+	display: block;
+	margin: 0 auto;
+}
+#img-caption {
+	margin-top: 50px;
 }
